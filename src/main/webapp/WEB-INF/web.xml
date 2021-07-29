@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>hello-servlet</servlet-name>
-    <servlet-class>com.nizar.azzam.HelloServlet</servlet-class>
+    <servlet-class>com.nizar.azzam.servlet.HelloServlet</servlet-class>
   </servlet>
 
   <servlet-mapping>

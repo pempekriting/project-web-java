@@ -1,4 +1,4 @@
-package com.nizar.azzam;
+package com.nizar.azzam.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

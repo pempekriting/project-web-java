@@ -1,4 +1,4 @@
-package com.nizar.azzam.log;
+package com.nizar.azzam.servlet.log;
 
 import lombok.extern.slf4j.Slf4j;
 

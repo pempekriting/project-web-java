@@ -1,4 +1,4 @@
-package com.nizar.azzam.constant;
+package com.nizar.azzam.servlet.constant;
 
 import java.io.File;
 

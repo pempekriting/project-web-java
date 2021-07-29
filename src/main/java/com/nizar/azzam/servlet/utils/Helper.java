@@ -1,4 +1,4 @@
-package com.nizar.azzam.utils;
+package com.nizar.azzam.servlet.utils;
 
 import javax.servlet.http.Part;
 import java.io.File;
