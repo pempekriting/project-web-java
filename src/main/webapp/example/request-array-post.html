@@ -6,7 +6,7 @@
 </head>
 <body>
 <h3>Mengirim data menggunakan method POST</h3>
-<form action="/project-web-java/form" method="POST">
+<form action="/project-web-java/form-array" method="POST">
     <div>
         <label for="srn">Student Registration Number</label>
         <input name="srn" id="srn" placeholder="2345123" size="8" maxlength="8"/>
@@ -27,6 +27,24 @@
     <div>
         <label for="date-of-birth">Date of Birth</label>
         <input type="date" id="date-of-birth" name="date-of-birth">
+    </div>
+    <div>
+        <label>
+            Swimming
+            <input type="checkbox" name="hobby" id="hobby-swimming" value="Swimming">
+        </label>
+        <label>
+            Coding
+            <input type="checkbox" name="hobby" id="hobby-coding" value="Coding">
+        </label>
+        <label>
+            Reading
+            <input type="checkbox" name="hobby" id="hobby-reading" value="Reading">
+        </label>
+        <label>
+            Hiking
+            <input type="checkbox" name="hobby" id="hobby-hiking" value="Hiking">
+        </label>
     </div>
     <div>
         <button type="submit" value="submit">Submit</button>
