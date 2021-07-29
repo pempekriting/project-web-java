@@ -1,4 +1,4 @@
-package com.nizar.azzam.servlet.listener;
+package com.nizar.azzam.servlet.listener.servlet;
 
 import com.nizar.azzam.conf.DatabaseService;
 import lombok.extern.slf4j.Slf4j;
